@@ -1,0 +1,5 @@
+{
+	"variants": {
+		"": { "model": "dranoels_technology:block/wire" }
+	}
+}
